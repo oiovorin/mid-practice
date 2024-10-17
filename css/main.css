@@ -1,0 +1,26 @@
+h1 {
+  background-color: antiquewhite;
+}
+
+.highlight {
+  color: red;
+  font-size: 20px;
+}
+
+h3,
+h4 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: blueviolet;
+}
+
+.sammery {
+  background-color: azure;
+  text-align: center;
+}
